@@ -1,0 +1,5 @@
+groq 
+agno 
+duckduckgo-search
+google-genai
+exa_py   ## for movies
