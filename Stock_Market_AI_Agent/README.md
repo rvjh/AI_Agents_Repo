@@ -1,1 +1,1 @@
-![alt text](Stock_Market_AI_Agent/image.png)
+![alt text](image.png)
